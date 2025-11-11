@@ -1,0 +1,5 @@
+{
+  "name": "University Credit Management System",
+  "description": "A comprehensive web application to manage students, courses, lecturers, and academic records for a credit-based university system. It includes features for enrollment, grading, reporting, and statistical analysis.",
+  "requestFramePermissions": []
+}
