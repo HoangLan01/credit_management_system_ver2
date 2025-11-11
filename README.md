@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>University Credit Management System</h1>
+  <p>Full-stack app (Vite + React + Express + PostgreSQL)</p>
+</div>
+
 ## Prerequisites
 - Node.js 18+ and npm
 - PostgreSQL 14+ (installed locally)
